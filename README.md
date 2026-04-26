@@ -1,0 +1,1 @@
+Rock Paper Scissor    A Rock Paper Scissors game is a simple program where a player competes against the computer by choosing rock, paper, or scissors, and the winner is decided based on predefined rules.
